@@ -1,0 +1,33 @@
+ // แก้ชื่อเมนู ราคา และรูปภาพได้ในไฟล์นี้
+// image ใช้ URL รูปภาพ หรือเว้นเป็น "" ได้
+window.MENU_ITEMS = {
+   "shop01": [
+  {id:"M01", name:"ข้าวผัดชะอมกุ้ง", price:60, image:"/image/shop01/ข้าวผัดชะอมกุ้ง.jpg", active:true},
+  {id:"M02", name:"ข้าวผัดเนยทะเลรวม", price:60, image:"/image/shop01/ข้าวผัดเนยทะเลรวม.jpg", active:true},
+  {id:"M03", name:"ข้าวผัดเนยกุ้งใส่ไข่", price:60, image:"/image/shop01/ข้าวผัดเนยกุ้งใส่ไข่.jpg", active:true},
+  {id:"M04", name:"ข้าวผัดน้ำพริกกะปิ ไข่เจียวชะอมกุ้ง", price:60, image:"/image/shop01/ข้าวผัดน้ำพริกกะปิ ไข่เจียวชะอมกุ้ง.jpg", active:true},
+  {id:"M05", name:"ข้าวไข่ข้นห่อหมกกุ้ง", price:89, image:"/image/shop01/ข้าวไข่ข้นห่อหมกกุ้ง.jpg", active:true},
+  {id:"M06", name:"ข้าวไข่ข้น+สันคอกระเทียม", price:60, image:"/image/shop01/ข้าวไข่ข้น+สันคอกระเทียม.jpg", active:true},
+  {id:"M07", name:"กระเพราสันคอหมูราดข้าว", price:60, image:"/image/shop01/กระเพราสันคอหมูราดข้าว.jpg", active:true},
+  {id:"M08", name:"กระเพรากุ้ง/สันคอหมูราดข้าว", price:60, image:"/image/shop01/กระเพรากุ้ง&สันคอหมูราดข้าว.jpg", active:true},
+  {id:"M09", name:"กุ้งแช่น้ำปลา", price:109, image:"/image/shop01/กุ้งแช่น้ำปลา.jpg", active:true},
+  {id:"M10", name:"กุ้งแช่น้ำปลาสุก", price:109, image:"/image/shop01/กุ้งแช่น้ำปลาสุก.jpg", active:true},
+  {id:"M11", name:"กุ้งย่างเนย", price:109, image:"/image/shop01/กุ้งย่างเนย.jpg", active:true},
+  {id:"M12", name:"กุ้งลวกจิ้ม", price:109, image:"/image/shop01/กุ้งลวกจิ้ม.jpg", active:true},
+  {id:"M13", name:"เมี่ยงกุ้ง", price:120, image:"/image/shop01/เมี่ยงกุ้ง.jpg", active:true},
+  {id:"M14", name:"สันคอมะนาว", price:99, image:"/image/shop01/สันคอมะนาว.jpg", active:true},
+  {id:"M15", name:"QRร้าน แอดเพื่อยืนยันออเดอร์", price:99, image:"/image/shop01/QRร้าน.jpg", active:true}
+],
+  
+  "shop02": [
+  {id:"M01", name:"เชลล์เหลือง", price:999, image:"/image/shop02/เชลล์เหลือง.jpg", active:true},
+  {id:"M02", name:"เชลล์แดง", price:899, image:"/image/shop02/เชลล์แดง.jpg", active:true},
+  {id:"M03", name:"จารบี", price:109, image:"/image/shop02/จารบี.jpg", active:true}
+],
+  "shop03": [
+  {id:"M01", name:"เนื้อ1", price:999, image:"/image/shop03/เนื้อ1.jpg", active:true},
+  {id:"M02", name:"เนื้อ2", price:899, image:"/image/shop03/เนื้อ2.jpg", active:true},
+  {id:"M03", name:"เนื้อ3", price:109, image:"/image/shop03/เนื้อ3.jpg", active:true} 
+]
+};   
+  
