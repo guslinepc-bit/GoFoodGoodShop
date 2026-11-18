@@ -16,7 +16,7 @@ window.MENU_ITEMS = {
   {id:"M12", name:"กุ้งลวกจิ้ม", price:109, image:"/image/shop01/กุ้งลวกจิ้ม.jpg", active:true},
   {id:"M13", name:"เมี่ยงกุ้ง", price:120, image:"/image/shop01/เมี่ยงกุ้ง.jpg", active:true},
   {id:"M14", name:"สันคอมะนาว", price:99, image:"/image/shop01/สันคอมะนาว.jpg", active:true},
-  {id:"M15", name:"QRของร้าน แอดเพื่อส่งยืนยันออเดอร์", price:0, image:"/image/shop01/QRร้านซะป๊ะ.jpg", active:true}
+  {id:"M15", name:"QRของร้าน แอดเพื่อส่งยืนยันออเดอร์", price:0, image:"/image/shop01/QRร้าน1.jpg", active:true}
 ],
   
   "shop02": [
